@@ -67,7 +67,3 @@ The AI model used in this project is fine-tuned on space-related data. Here's ho
 ## About the Model
 
 The AI model used in this project is based on the GPT-2 architecture, fine-tuned on space-related data to provide context-aware responses. It generates solutions based on the astronaut's input and the provided context.
-
-## Author
-
-This project was developed by [Hammad Ali](https://github.com/hammadali1805).
